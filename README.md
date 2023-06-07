@@ -19,7 +19,7 @@
 <br />
 <div align="center">
 
-<h1 align="center">iOS Remote Builder/h1>
+<h1 align="center">iOS Remote Builder</h1>
 
   <p align="center">
     Develop on Windows, build on Mac
